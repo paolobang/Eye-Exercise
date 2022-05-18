@@ -27,22 +27,22 @@
 
 
 <!-- PROJECT LOGO -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 <br />
 <div align="center">
-  <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">
+  <!-- <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Eye Excercise</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This project is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and is a web page with two eyes that follow your mouse movement. As you hover your mouse over the screen the two balls elements inside the oval elements follow the mouse cursor, simulating the effect of being followed by a person's eyes.
     <br />
     <a href="https://github.com/pesorudy/Eye-Exercise"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pesorudy/Eye-Exercise">View Demo</a>
+    <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/pesorudy/Eye-Exercise/issues">Report Bug</a>
     ·
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
