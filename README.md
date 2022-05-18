@@ -75,13 +75,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## :dart: About The Project
+## :open_file_folder: About The Project
 
 
 
 This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and is a web page with two eyes that follow your mouse movement. As you hover your mouse over the screen the two balls elements inside the oval elements follow the mouse cursor, simulating the effect of being followed by a person's eyes.
 
-`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -89,14 +88,10 @@ This is is part of Professional Certificate in Coding: Full Stack Development wi
 
 ### :rocket: Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,28 +103,15 @@ This is is part of Professional Certificate in Coding: Full Stack Development wi
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### :pencil2: Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### :computer: Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/pesorudy/Eye-Exercise.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -137,9 +119,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## :pencil: Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is only for academic use in order to understand javascript logic for capture mouse movements around the screen. 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -150,10 +132,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## :dart: Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Improve css style
+- [ ] Add more effects to the eyes
 
 See the [open issues](https://github.com/pesorudy/Eye-Exercise/issues) for a full list of proposed features (and known issues).
 
