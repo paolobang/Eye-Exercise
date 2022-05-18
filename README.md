@@ -27,9 +27,9 @@
 
 
 <!-- PROJECT LOGO -->
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <br />
 <div align="center">
-[![Product Name Screen Shot][product-screenshot]]
   <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
