@@ -29,19 +29,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pesorudy/Eye-Exercise">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Eye Excercise Project </h3>
+<h1 align="center">Eye Excercise Project </h1>
 
   <p align="center">
-    project_description
     <br />
-    <a href="https://github.com/pesorudy/Eye-Exercise"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pesorudy/Eye-Exercise" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pesorudy/Eye-Exercise">View Demo</a>
+    <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/pesorudy/Eye-Exercise/issues">Report Bug</a>
     ·
@@ -80,7 +75,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :dart: About The Project
 
 
 
@@ -92,7 +87,7 @@ This is is part of Professional Certificate in Coding: Full Stack Development wi
 
 
 
-### Built With
+### :rocket: Built With
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -108,12 +103,12 @@ This is is part of Professional Certificate in Coding: Full Stack Development wi
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :white_check_mark: Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### :pencil2: Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -121,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### :computer: Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -153,7 +148,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## :dart: Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -167,7 +162,7 @@ See the [open issues](https://github.com/pesorudy/Eye-Exercise/issues) for a ful
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## :recycle: Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -185,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## :lock: License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -194,25 +189,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## :wave: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
 Project Link: [https://github.com/pesorudy/Eye-Exercise](https://github.com/pesorudy/Eye-Exercise)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -228,5 +211,5 @@ Project Link: [https://github.com/pesorudy/Eye-Exercise](https://github.com/peso
 [license-shield]: https://img.shields.io/github/license/pesorudy/Eye-Exercise.svg?style=for-the-badge
 [license-url]: https://github.com/pesorudy/Eye-Exercise/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
 [product-screenshot]: /assets/screenshot.png
