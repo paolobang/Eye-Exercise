@@ -164,4 +164,4 @@ Project Link: [https://github.com/pesorudy/Eye-Exercise](https://github.com/peso
 [license-url]: https://github.com/pesorudy/Eye-Exercise/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
-[product-screenshot]: /assets/screenshot.gif
+[product-screenshot]: /assets/screen.gif
