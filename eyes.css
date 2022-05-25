@@ -3,30 +3,52 @@
   padding: 0;
   background: #14495e;
 } */
+@font-face {
+  font-family: "Turtle";
+  src: url('./font/Turtles.otf') format("opentype");
+}
 
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Turtle";
+}
+h1 {
+  font-size: 4rem;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #147a1e;
+  
+}
+p{
+  color:#ab3434;
+}
 .eyes {
-  position: absolute;
-  top: 25%;
+  /* position: absolute; */
+  /* top: 15.5%; */
   /* transform: translateY(60%); */
+  position: absolute;
+  top: 19%;
   width: 100%;
   text-align: center;
   /* transform: translateX(50%); */
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: -1;
 }
 .eye {
-  width: 17%;
-  height: 105px;
+  width: 142px;
+  height: 69px;
   background: #fff;
   display: inline-block;
-  margin: 2%;
+  margin: 1rem;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
 }
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   background: #000;
   position: absolute;
   top: 50%;
@@ -46,7 +68,7 @@ footer {
 }
 
 .container {
-  top: 50%;
+  /* top: 50%; */
 }
 .col:first-of-type {
 /* background: url('./assets/turtle.png'); */
@@ -67,4 +89,13 @@ background:#f48a8a;
 border-radius: 5%;
 /* padding: 4rem; */
 height: 85%;
+}
+
+.img-fluid{
+  max-width: 500px !important; 
+}
+
+.container-fluid{
+  /* cursor: url('https://res.cloudinary.com/dvkugaw3b/image/upload/v1641562029/cursor-worm_kij6gi.png'), auto; */
+  cursor: url('/assets/pizza.png'), auto;
 }
