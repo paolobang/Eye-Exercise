@@ -33,14 +33,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/pesorudy/Eye-Exercise" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/Eye-Exercise" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pesorudy.github.io/Eye-Exercise/" target="_blank">View Demo</a>
+    <a href="https://paolobang.github.io/Eye-Exercise/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/pesorudy/Eye-Exercise/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/Eye-Exercise/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pesorudy/Eye-Exercise/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/Eye-Exercise/issues">Request Feature</a>
   </p>
 </div>
 
